@@ -3,13 +3,13 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: "lc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "MTSU James E. Walker Library"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: chris@carpentries.org
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
