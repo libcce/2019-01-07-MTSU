@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "MTSU Business & Aerospace Building (BAS) S316 and BAS S326 (Suntrust Room)"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "MTSU, Business and Aerospace Building, 1642 MTSU Blvd, Murfreesboro, TN"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "MTSU Library (Business & Aerospace Building)"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Business and Aerospace Building (S316 and S326), 1642 MTSU Blvd, Murfreesboro, TN"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "35.8480208,-86.3654459"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
