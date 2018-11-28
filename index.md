@@ -18,8 +18,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
   
-REGISTRATION  
-[Via Tenn-Share](https://www.tenn-share.org/ev_calendar_day.asp?date=1/7/2019&eventid=12#)  
+<h2 id="registration">Registration</h2> 
+<a href="https://www.tenn-share.org/ev_calendar_day.asp?date=1/7/2019&eventid=12#">Via Tenn-Share</a>  
   
 
 {% comment %}
