@@ -17,7 +17,10 @@ collaborative_notes: http://pad.software-carpentry.org/2019-01-MTSU-lib-carp    
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
-{% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
+  
+REGISTRATION  
+[Via Tenn-Share](https://www.tenn-share.org/ev_calendar_day.asp?date=1/7/2019&eventid=12#)  
+  
 
 {% comment %}
   HEADER
